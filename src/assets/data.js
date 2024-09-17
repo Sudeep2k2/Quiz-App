@@ -35,7 +35,7 @@ export const data = [
         question: "First page of a website is termed as : ",
         option1:"Index Page",
         option2:"Home Page",
-        option3:"Sitemap",
+        option3:"Landing Page",
         option4:"Signup Page",
         ans: 2,
     },  
